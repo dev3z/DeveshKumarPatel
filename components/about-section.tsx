@@ -101,16 +101,20 @@ export function AboutSection() {
                 <div className="flex flex-wrap gap-2">
                   <Badge>Project Management</Badge>
                   <Badge>Cross-functional Collaboration</Badge>
-                  <Badge>Engineering Assistance</Badge>
                   <Badge>Reporting</Badge>
-                  <Badge>Attention to Detail</Badge>
-                  <Badge>Proactive Teamwork</Badge>
+                  <Badge>Stakeholders Management</Badge>
+        
                 </div>
               </div>
               <div>
                 <h4 className="font-semibold mb-3 text-primary">Development and AI</h4>
                 <div className="flex flex-wrap gap-2">
-                  <Badge>MERN Stack</Badge>
+                  <Badge>Mongo DB</Badge>
+                  <Badge>Express</Badge>
+                  <Badge>TypeScript</Badge>
+                  <Badge>Node</Badge>
+                  <Badge>React js</Badge>
+                  <Badge>Next js</Badge>
                   <Badge>LangChain</Badge>
                   <Badge>Github Actions</Badge>
                 </div>
