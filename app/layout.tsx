@@ -19,8 +19,7 @@ const openSans = Open_Sans({
 
 export const metadata: Metadata = {
   title: "Devesh Kumar Patel - Portfolio",
-  description: "Chemical Engineering Student | Data Analyst | Content Creator | Leadership & Innovation",
-  generator: "v0.app",
+  description: "Product | Data Analyst | Content Creator | Leadership & Innovation",
 }
 
 export default function RootLayout({

@@ -27,21 +27,21 @@ export function HeroSection() {
               {""}
             </p>
             <div className="flex flex-wrap justify-center gap-2 mb-8">
-              <Badge variant="secondary">Founder's Office</Badge>
-              <Badge variant="secondary">Content Marketing</Badge>
+              <Badge variant="secondary">Product</Badge>
+              <Badge variant="secondary">Content</Badge>
               <Badge variant="secondary">Data Analysis</Badge>
-              <Badge variant="secondary">Leadership</Badge>
+              <Badge variant="secondary">Agentic AI</Badge>
             </div>
           </div>
 
           <p className="text-lg text-foreground/80 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Passionate about crafting compelling stories and technical content to engage tech audiences. Skilled in market research, creative writing, and collaborative campaigns supporting strategic growth in dynamic environments. Experienced in project management, data analysis, and cross-functional collaboration 
+            Product | Data Analysis | Agentic AI
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <Button size="lg" className="bg-primary hover:bg-primary/90" asChild>
               <a
-                href="https://drive.google.com/file/d/1cTIBnBibIpfLsX7GUgQ1PhobtFF3AUea/view?usp=sharing"
+                href="https://drive.google.com/file/d/1idGOtWy9qMy8BpVCET9sVdOQ9kXNDaKc/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >

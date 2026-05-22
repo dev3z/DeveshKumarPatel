@@ -44,9 +44,7 @@ export function ContactSection() {
             <div>
               <h3 className="text-2xl font-sans font-black mb-6">Get in Touch</h3>
               <p className="text-muted-foreground mb-8 leading-relaxed">
-                I'm always interested in hearing about new opportunities, especially in Founder's Office and Content
-                Marketing roles. Whether you have a project in mind or just want to chat about data analysis and
-                creative content, I'd love to hear from you.
+                I'm always interested in hearing about new opportunities, I'd love to hear from you.
               </p>
               
 

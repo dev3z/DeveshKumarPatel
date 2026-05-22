@@ -20,7 +20,7 @@ export function PhotographySection() {
               <div className="w-20 h-20 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center mx-auto mb-4 text-white">
                 <Camera className="h-10 w-10" />
               </div>
-              <CardTitle className="text-2xl font-sans font-black">Fotulelo Photography</CardTitle>
+              <CardTitle className="text-2xl font-sans font-black">Photography</CardTitle>
               <p className="text-muted-foreground">Creative visual storytelling and artistic photography</p>
             </CardHeader>
             <CardContent className="text-center">

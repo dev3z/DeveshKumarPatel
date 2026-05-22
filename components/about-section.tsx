@@ -20,9 +20,9 @@ export function AboutSection() {
                 <GraduationCap className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-sans font-black mb-2">Education</h3>
                 <p className="text-muted-foreground mb-4">
-                  B.Tech Chemical Engineering
+                  B.Tech
                   <br />
-                  MANIT Bhopal
+                  NIT Bhopal
                 </p>
                 <Badge variant="outline">Nov 2022 - June 2026</Badge>
               </CardContent>
@@ -33,7 +33,7 @@ export function AboutSection() {
                 <Target className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-sans font-black mb-2">Career Focus</h3>
                 <p className="text-muted-foreground mb-4">
-                  Targeting roles in Founder's Office and Content Marketing to drive strategic growth
+                  Targeting roles in Product, Data Analytics, Agentic AI Development
                 </p>
                 <div className="flex flex-wrap gap-2 justify-center">
                   <Badge variant="secondary">Strategy</Badge>
@@ -47,7 +47,7 @@ export function AboutSection() {
                 <Lightbulb className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-sans font-black mb-2">Passion</h3>
                 <p className="text-muted-foreground mb-4">
-                  Combining analytical thinking with creative documentation to solve complex problems
+                  Combining analytical thinking with creative mindset
                 </p>
                 <div className="flex flex-wrap gap-2 justify-center">
                   <Badge variant="secondary">Innovation</Badge>
@@ -65,10 +65,9 @@ export function AboutSection() {
                 <div className="flex flex-wrap gap-2">
                   <Badge>SQL</Badge>
                   <Badge>Python</Badge>
+                  <Badge>LangChain</Badge>
                   <Badge>Power BI</Badge>
-                  <Badge>Pandas</Badge>
-                  <Badge>NumPy</Badge>
-                  <Badge>Matplotlib</Badge>
+                  <Badge>Excel</Badge>
                 </div>
               </div>
               <div>
@@ -92,8 +91,6 @@ export function AboutSection() {
                 <h4 className="font-semibold mb-3 text-primary">Marketing & Content</h4>
                 <div className="flex flex-wrap gap-2">
                   <Badge>Marketing</Badge>
-                  <Badge>Social Media Campaigns</Badge>
-                  <Badge>Creative Writing</Badge>
                   <Badge>Technical Documentation</Badge>
                   <Badge>Content Development</Badge>
                   <Badge>Market Research</Badge>
@@ -104,20 +101,22 @@ export function AboutSection() {
                 <div className="flex flex-wrap gap-2">
                   <Badge>Project Management</Badge>
                   <Badge>Cross-functional Collaboration</Badge>
-                  <Badge>Engineering Assistance</Badge>
                   <Badge>Reporting</Badge>
-                  <Badge>Attention to Detail</Badge>
-                  <Badge>Proactive Teamwork</Badge>
+                  <Badge>Stakeholders Management</Badge>
+        
                 </div>
               </div>
               <div>
-                <h4 className="font-semibold mb-3 text-primary">Technology & Tools</h4>
+                <h4 className="font-semibold mb-3 text-primary">Development and AI</h4>
                 <div className="flex flex-wrap gap-2">
-                  <Badge>KPI Tracking</Badge>
-                  <Badge>Process Optimization</Badge>
-                  <Badge>Stakeholder Management</Badge>
-                  <Badge>Digital Tools</Badge>
-                  <Badge>Technology Passion</Badge>
+                  <Badge>Mongo DB</Badge>
+                  <Badge>Express</Badge>
+                  <Badge>TypeScript</Badge>
+                  <Badge>Node</Badge>
+                  <Badge>React js</Badge>
+                  <Badge>Next js</Badge>
+                  <Badge>LangChain</Badge>
+                  <Badge>Github Actions</Badge>
                 </div>
               </div>
             </div>
