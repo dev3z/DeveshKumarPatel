@@ -41,7 +41,7 @@ export function HeroSection() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <Button size="lg" className="bg-primary hover:bg-primary/90" asChild>
               <a
-                href="https://drive.google.com/file/d/1cTIBnBibIpfLsX7GUgQ1PhobtFF3AUea/view?usp=sharing"
+                href="https://drive.google.com/file/d/1idGOtWy9qMy8BpVCET9sVdOQ9kXNDaKc/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >
