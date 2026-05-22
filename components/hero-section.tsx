@@ -27,7 +27,7 @@ export function HeroSection() {
               {""}
             </p>
             <div className="flex flex-wrap justify-center gap-2 mb-8">
-              <Badge variant="secondary">Founder's Office</Badge>
+              <Badge variant="secondary">Product Management</Badge>
               <Badge variant="secondary">Content Marketing</Badge>
               <Badge variant="secondary">Data Analysis</Badge>
               <Badge variant="secondary">Leadership</Badge>

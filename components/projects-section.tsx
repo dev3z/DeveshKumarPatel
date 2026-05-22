@@ -38,6 +38,39 @@ export function ProjectsSection() {
       github: "https://github.com/dev3z/DSA-Notes-Problems",
       demo: "https://wooded-liquid-52c.notion.site/DSA-Notes-Leetcode-Problems-200e2fec691d8079a5ccc406899ca1fc",
     },
+    {
+      title: "Multi-Model LangChain Agentic System",
+      description:
+        "Engineered a vendor-agnostic LLM backend supporting dynamic swapping between OpenAI, Google Gemini, and Groq models. Developed intelligent autonomous agent equipped with custom tool-calling capabilities for seamless execution of external functions and automation of complex workflows.",
+      impact: "Optimized token usage and improved multi-turn conversations through custom middleware and prompt context management",
+      technologies: ["Python", "LangChain", "TavilySearch", "OpenAI", "Google Gemini", "Groq"],
+      icon: <TrendingUp className="h-6 w-6" />,
+      image: "https://img.freepik.com/premium-vector/ai-artificial-intelligence-brain-technology-innovation-concept-illustration_114360-5259.jpg",
+      github: "https://github.com/dev3z/LangChain-Multi-Agent-AI-System",
+      demo: "https://github.com/dev3z/LangChain-Multi-Agent-AI-System",
+    },
+    {
+      title: "Lyrics-Based Music Recommendation System",
+      description:
+        "Built a content-based music recommender that analyzes song lyrics to surface similar tracks using TF-IDF vectorization and cosine similarity. Implemented a preprocessing pipeline and interactive Streamlit app to clean and tokenize lyrics, compute embeddings, and return top-N recommendations.",
+      impact: "Delivered behavior-agnostic recommendations that mitigate cold-start issues by relying on content signals rather than historical user activity",
+      technologies: ["Python", "Streamlit", "Scikit-learn", "TF-IDF", "NLP", "Pandas"],
+      icon: <BarChart3 className="h-6 w-6" />,
+      image: "https://img.freepik.com/premium-vector/music-streaming-concept-illustration-online-playlist-listening-songs_355218-1346.jpg",
+      github: "https://github.com/dev3z/music-recommendation-system",
+      demo: "https://github.com/dev3z/music-recommendation-system",
+    },
+    {
+      title: "CafeFlow – Restaurant Management System",
+      description:
+        "Developed a full-stack restaurant POS system with modular React components for order handling and table management. Built RESTful APIs using Express.js and MongoDB to manage menu, orders, and real-time updates with JWT-based authentication and role-based access control.",
+      impact: "Integrated Razorpay payments with invoice generation, enabling seamless transaction processing and order tracking",
+      technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JWT", "Razorpay"],
+      icon: <BarChart3 className="h-6 w-6" />,
+      image: "https://img.freepik.com/premium-vector/restaurant-management-system-conceptual-illustration-point-of-sale-pos-system_114360-3789.jpg",
+      github: "https://github.com/dev3z/CafeFlow-management",
+      demo: "https://github.com/dev3z/CafeFlow-management",
+    },
   ]
 
   return (
