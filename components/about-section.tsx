@@ -33,7 +33,7 @@ export function AboutSection() {
                 <Target className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-sans font-black mb-2">Career Focus</h3>
                 <p className="text-muted-foreground mb-4">
-                  Targeting roles in Founder's Office and Content Marketing to drive strategic growth
+                  Targeting roles in Product, Data Analytics, Agentic Ai Development
                 </p>
                 <div className="flex flex-wrap gap-2 justify-center">
                   <Badge variant="secondary">Strategy</Badge>
@@ -65,10 +65,10 @@ export function AboutSection() {
                 <div className="flex flex-wrap gap-2">
                   <Badge>SQL</Badge>
                   <Badge>Python</Badge>
-                  <Badge>Power BI</Badge>
-                  <Badge>Pandas</Badge>
-                  <Badge>NumPy</Badge>
-                  <Badge>Matplotlib</Badge>
+                  <Badge>LangChain</Badge>
+                  <Badge>MERN Stack</Badge>
+                  <Badge>AWS</Badge>
+                  <Badge>Github Actions</Badge>
                 </div>
               </div>
               <div>
