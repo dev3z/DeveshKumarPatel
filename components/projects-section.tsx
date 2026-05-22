@@ -67,7 +67,7 @@ export function ProjectsSection() {
       impact: "Integrated Razorpay payments with invoice generation, enabling seamless transaction processing and order tracking",
       technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JWT", "Razorpay"],
       icon: <BarChart3 className="h-6 w-6" />,
-      image: "https://img.freepik.com/premium-vector/restaurant-management-system-conceptual-illustration-point-of-sale-pos-system_114360-3789.jpg",
+      image: "https://img.freepik.com/premium-psd/realistic-pos-machine-mockup-template_1249834-1152.jpg?semt=ais_hybrid&w=740&q=80",
       github: "https://github.com/dev3z/CafeFlow-management",
       demo: "https://github.com/dev3z/CafeFlow-management",
     },

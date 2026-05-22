@@ -20,7 +20,7 @@ export function AboutSection() {
                 <GraduationCap className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-sans font-black mb-2">Education</h3>
                 <p className="text-muted-foreground mb-4">
-                  B.Tech Chemical Engineering
+                  B.Tech
                   <br />
                   NIT Bhopal
                 </p>
@@ -47,7 +47,7 @@ export function AboutSection() {
                 <Lightbulb className="h-12 w-12 text-primary mx-auto mb-4" />
                 <h3 className="text-xl font-sans font-black mb-2">Passion</h3>
                 <p className="text-muted-foreground mb-4">
-                  Combining analytical thinking with creative thinking to solve complex problems
+                  Combining analytical thinking with creative mindset
                 </p>
                 <div className="flex flex-wrap gap-2 justify-center">
                   <Badge variant="secondary">Innovation</Badge>
