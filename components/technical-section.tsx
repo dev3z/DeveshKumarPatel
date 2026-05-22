@@ -24,15 +24,6 @@ export function TechnicalSection() {
       link: "https://shellscriptingbydev3z.hashnode.dev",
       tags: ["Shell Scripting", "Linux", "DevOps", "Automation"],
     },
-    {
-      title: "Random Paragraph Generator",
-      description: "Technical implementation and explanation of a random paragraph generation tool.",
-      type: "Project Blog",
-      platform: "Hashnode",
-      icon: <Code className="h-6 w-6" />,
-      link: "https://dev3z.hashnode.dev",
-      tags: ["JavaScript", "Web Development", "Tools", "Programming"],
-    },
   ]
 
   return (
